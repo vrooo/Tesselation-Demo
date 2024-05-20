@@ -1,6 +1,8 @@
+# PL
+
 Projekt z przedmiotu Grafika komputerowa 2, 2019/2020 sem. letni
 
-# Sterowanie
+## Sterowanie
 
 **strzałki** - liczba podziałów teselacji
 
@@ -14,4 +16,25 @@ Projekt z przedmiotu Grafika komputerowa 2, 2019/2020 sem. letni
 
 **R** - włączenie/wyłączenie mapowania wysokości
 
-**LPM, RPM + ruch myszy** - kamera
+**LPM, PPM + ruch myszy** - kamera
+
+# EN
+
+Project for Computer Graphics 2 course, 2019/2020 summer semester
+
+## Controls
+
+**arrows** - change tessellation division count
+
+**1-6** - change model (**1-3** - patches, **4-6** - surfaces from connected patches)
+
+**Q** - enable/disable dynamic LOD
+
+**W** - enable/disable texture
+
+**E** - enable/disable control grid
+
+**R** - enable/disable height mapping
+
+**left/right mouse button + mouse movement** - camera
+
